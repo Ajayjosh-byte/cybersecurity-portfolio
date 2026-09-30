@@ -168,3 +168,14 @@ Training Attribution
 This project was completed as part of cybersecurity training through Coursera. The packet data and scenario were provided as simulated training material.
 
 The analysis and presentation in this repository have been independently organized and rewritten for portfolio documentation.
+---
+
+## Evidence & Project Report
+
+The detailed project report is available below:
+
+📄 **[View Project Report – TCPDump Network Protocol Analysis](./TCPDump-Network-Protocol-Analysis.pdf)**
+
+The report documents the simulated investigation, packet-analysis observations, protocol identification, DNS/UDP/ICMP findings, possible causes, and recommended next investigative steps.
+
+> **Note:** This project used simulated packet data provided as part of Coursera cybersecurity training. No live production network traffic was captured or analyzed.
