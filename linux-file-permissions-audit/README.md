@@ -153,3 +153,7 @@ This project demonstrates a foundational cybersecurity skill: managing Linux fil
 **Author:** Ajay Josh
 
 **Focus Areas:** Cybersecurity | Linux | Bash | Access Control | Security Hardening
+
+## Evidence
+
+![Linux File Permissions Audit](screenshots/linux-permissions-audit.png)
